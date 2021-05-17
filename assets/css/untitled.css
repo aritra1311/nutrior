@@ -1,0 +1,13 @@
+nav {
+  margin: 0;
+  padding: 0;
+  animation: bgcolor infinite 20s;
+}
+
+.page-section.clearfix {
+}
+
+:root {
+  scroll-behavior: smooth;
+}
+
