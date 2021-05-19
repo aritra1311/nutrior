@@ -11,3 +11,9 @@ nav {
   scroll-behavior: smooth;
 }
 
+#mainNav {
+  color: #212529;
+  background-color: rgb(14,14,14);
+  height: 130px;
+}
+
